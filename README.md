@@ -31,3 +31,10 @@ that way
 
 The stochastic programming allows introduction to aleatory in our programs to create simulations
 that allow solve other kinds of problems
+
+# Stadistic Inference
+
+With the simulations we can calculate the probabilities of complex events knowin the probabilities of simple events
+
+The stadistic inference techniques allow us infer the properties of a poblation from a random sample
+
