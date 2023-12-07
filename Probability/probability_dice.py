@@ -27,9 +27,11 @@ def main(number_of_throw:int, number_of_tries:int):
             
     probability_throw_with_1 = throw_with_1 / number_of_tries
     print(f'Probability of obtain at least 1 in {number_of_tries} throws {number_of_throw} = {probability_throw_with_1}')
-        
+    
+    
 if __name__ == '__main__':
     number_of_throw = int(input('How many times will you roll the dice: '))
     number_of_tries = int(input('How many times will run the simulation: '))
     
     main(number_of_throw, number_of_tries)
+    
