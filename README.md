@@ -40,10 +40,6 @@ The stadistic inference techniques allow us infer the properties of a poblation 
 
 - The principle guide of the statistic inference is that an aleatory sample can contain the same properties of all the poblation that was extract.
 
-Law of the great numbers
-
-![Alt text](image.png)
-
 # The gambler's fallacy
 
 Is a reasoning error where an individual assumes that certain events are more or less likely to occur based on past events, particularly in situations involving independent probability.
@@ -52,4 +48,3 @@ Is a reasoning error where an individual assumes that certain events are more or
 
 The term "average" commonly refers to the arithmetic mean, which is a statistical measure used to describe a central value in a dataset
 
-![Alt text](image-1.png)

@@ -17,4 +17,3 @@ fin = time.time()
 
 print(f"Finished : {set1}")
 print(fin-inicio)
-wwwwwwwwwwwwwwwwwwwwwwwww
